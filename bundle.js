@@ -1469,7 +1469,7 @@
         )("versions", []).push({
             version: "3.8.1",
             mode: r ? "pure" : "global",
-            copyright: "Â© 2020 Denis Pushkarev (zloirock.ru)"
+            copyright: "© 2020 Denis Pushkarev (zloirock.ru)"
         })
     }
     , function(e, t) {
