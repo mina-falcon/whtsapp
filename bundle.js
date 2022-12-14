@@ -14319,16 +14319,7 @@
             }, I.a.createElement("svg", {
                 xmlns: "http://www.w3.org/2000/svg",
                 viewBox: "0 0 58.16 10.15"
-            }, I.a.createElement("polygon", {
-                points: "43.2 3.37 42.12 3.37 42.12 1.79 40.97 1.79 40.97 3.37 39.91 3.37 40.26 4.39 40.97 4.39 40.97 9.03 42.12 9.03 42.12 4.39 43.2 4.39 43.2 3.37",
-                fill: "#afafaf"
-            }), I.a.createElement("polygon", {
-                points: "46.76 3.37 45.67 3.37 45.67 1.79 44.52 1.79 44.52 3.37 43.47 3.37 43.81 4.39 44.52 4.39 44.52 9.03 45.67 9.03 45.67 4.39 46.76 4.39 46.76 3.37",
-                fill: "#afafaf"
-            }), I.a.createElement("polygon", {
-                points: "27.56 3.37 26.47 3.37 26.47 1.79 25.32 1.79 25.32 3.37 24.27 3.37 24.62 4.39 25.32 4.39 25.32 9.03 26.47 9.03 26.47 4.39 27.56 4.39 27.56 3.37",
-                fill: "#afafaf"
-            })), t && I.a.createElement(En, null))
+            }), t && I.a.createElement(En, null))
         }
         function wn() {
             window.open(Tn, "_blank")
