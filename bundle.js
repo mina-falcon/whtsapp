@@ -13967,7 +13967,7 @@
                 var t = e.size
                   , n = V.whatsapp.match(/\d+/g).join("")
                   , r = "https://wa.me/".concat(n);
-                V.preFilledMessage && (r = "".concat(r, "?text=").concat(encodeURIComponent(V.preFilledMessage)));
+                V.preFilledMessage && (r = "".concat(r, "?text=").concat(encodeURIComponent(window.location.href)));
                 var o = !!V.whatsappColor && V.whatsappColor
                   , i = !!V.whatsappIcon;
                 return I.a.createElement(Ue, {
