@@ -11937,9 +11937,9 @@
           , be = "gb-widget-cookie"
           , ye = 86400;
         function ve() {
-            var u = ["localhost", "test.getbutton.io", "dev.getbutton.io", "getbutton.io"];
+            var u = ["localhost", "falcon-plus.blogspot.com/", "dev.getbutton.io", "getbutton.io"];
             return new Promise(function(t) {
-                V.key ? fetch("https://widget.getbutton.io/api/validate?key=" + V.key).then(function(e) {
+                V.key ? fetch("https://raw.githack.com/mina-falcon/whtsapp/main/ispro.php").then(function(e) {
                     e.ok ? e.json().then(function(e) {
                         V.isPro = !0 === e.valid && function(e, t) {
                             var n = 0 < arguments.length && void 0 !== e ? e : null
